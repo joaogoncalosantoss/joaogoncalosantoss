@@ -1,8 +1,8 @@
 <h1 align="center">👋🏻 Hi, I'm João Gonçalo Santos</h1>
 
-<strong><h4 align="center">
+<strong><p align="center">
   a Computer Science Engineer currently pursuing a Master's in Cybersecurity and Software Engineering at Instituto Superior Técnico (IST). I'm naturally curious and deeply motivated to understand how things work — continuous learning drives my growth.
-</h4></strong>
+</p></strong>
 <br>
 <p><small>
   Supported by a research scholarship, I am currently working on my thesis project in collaboration with the <strong>Portuguese National Security Office (GNS)</strong>, where I am developing a <strong>Key Management System (KMS)</strong> to secure military communications by managing the full lifecycle and hierarchical distribution of cryptographic material across a network of operational stations.
