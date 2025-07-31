@@ -1,4 +1,7 @@
-<h1 align="center">👋🏻 Hi, I'm João Gonçalo Santos</h1>
+<h1 align="center">
+   Hi, I'm João Gonçalo Santos
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
+</h1>
 
 <strong><p align="center">
   a Computer Science Engineer currently pursuing a Master's in Cybersecurity and Software Engineering at Instituto Superior Técnico (IST). I'm naturally curious and deeply motivated to understand how things work — continuous learning drives my growth.
