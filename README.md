@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<h3>📬 Let's connect</h3>
+<h3>Let's connect!</h3>
 
 <table width="80%">
   <tr>
