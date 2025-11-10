@@ -4,11 +4,11 @@
 </h1>
 
 <strong><p align="center">
-  a Computer Science Engineer currently pursuing a Master's in Cybersecurity and Software Engineering at Instituto Superior Técnico (IST). I'm naturally curious and deeply motivated to understand how things work — continuous learning drives my growth.
+  a Computer Science Engineer and Master’s graduate in Cybersecurity and Software Engineering from Instituto Superior Técnico (IST). I'm naturally curious and deeply motivated to understand how things work — continuous learning drives my growth.
 </p></strong>
 <br>
 <p><small>
-  Supported by a research scholarship, I am currently working on my thesis project in collaboration with the <strong>Portuguese National Security Office (GNS)</strong>, where I am developing a <strong>Key Management System (KMS)</strong> to secure military communications by managing the full lifecycle and hierarchical distribution of cryptographic material across a network of operational stations.
+  I have just completed my thesis project, supported by a research scholarship and carried out in collaboration with the <strong>Portuguese National Security Office (GNS)</strong>, where I developed a <strong>Key Management System (KMS)</strong> to secure military communications by managing the entire lifecycle and hierarchical distribution of cryptographic material across a network of operational stations.
 
   Outside of tech, I remain curious about topics such as personal finance and investments. I enjoy understanding what exists, studying different perspectives, listening to those with more experience, and applying the knowledge through my own reasoning. 
 </small></p>
